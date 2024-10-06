@@ -1,4 +1,6 @@
 matplotlib
+nltk
 pandas
 scikit-learn
 spacy
+spacy_langdetect
